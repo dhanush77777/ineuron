@@ -1,5 +1,5 @@
 # Shopping Cart  
-A simple E-commerce website using Flask.
+QR code based Food Dine In application
   
 ## Dependencies ##
 1. Python3
