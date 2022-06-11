@@ -1,4 +1,4 @@
-# Shopping Cart  
+
 QR code based Food Dine In application
   
 ## Dependencies ##
